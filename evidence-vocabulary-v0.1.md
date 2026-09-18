@@ -119,6 +119,10 @@ This is version 0.1. It fixes the axes, the identifiers and the rules. It does n
 define a capability taxonomy, a source-freshness schedule, worked examples, or a
 conformance test suite. Those are candidates for v0.2.
 
+This is the first public version, and it is open to revision. It is published, dated
+and citable as it stands; a later version does not amend this document but is
+published at its own permanent address, leaving this one unchanged.
+
 Capacity Signal™ is the reference implementation. The vocabulary is not the register:
 the selection, arrangement, reviewer annotations and dated reviewer judgments of any
 particular register are the work of its publisher and are not placed under this
@@ -140,6 +144,7 @@ specification; it does not grant rights in the mark.
 
 > Civic Grove Ltd. (2026). *Capacity Signal™ Evidence Vocabulary, version 0.1.*
 > https://capacitysignal.ca/spec/evidence-vocabulary/v0.1/
+> DOI: 10.5281/zenodo.22822163
 
 ---
 

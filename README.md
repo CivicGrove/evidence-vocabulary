@@ -36,6 +36,7 @@ covers this specification; it does not grant rights in the mark.
 
 > Civic Grove Ltd. (2026). *Capacity Signal™ Evidence Vocabulary, version 0.1.*
 > https://capacitysignal.ca/spec/evidence-vocabulary/v0.1/
+> DOI: 10.5281/zenodo.22822163
 
 ## Timestamps
 
@@ -43,10 +44,11 @@ The specification was published at the canonical address on 14 September 2026.
 The commit that introduced the specification text carries that authorship date and
 is the timestamp of record; it is never squashed, rebased, or amended.
 
-Two further independent timestamps are recorded against this text: a Zenodo
-deposit, and an OpenTimestamps proof committed alongside the source as
-`evidence-vocabulary-v0.1.md.ots`. Each attests only that the file existed no
-later than the time it records.
+Two further independent timestamps are recorded against this text: the Zenodo
+deposit at DOI 10.5281/zenodo.22822163, and an OpenTimestamps proof committed
+alongside the source as `evidence-vocabulary-v0.1.md.ots`. Each attests only
+that the file existed no later than the time it records — neither is evidence
+of the 14 September publication date.
 
 ---
 
